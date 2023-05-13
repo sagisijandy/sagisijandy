@@ -9,3 +9,16 @@
 sagisijandy/sagisijandy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+### FinalAssignment  
+
+
+### BlackJack
+* number 1
+* number 2
+* number 3
+
+These are my projects that has been updated recently
+
+
+
