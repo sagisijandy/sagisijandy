@@ -10,7 +10,7 @@ sagisijandy/sagisijandy is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 
-#### C# Projects
+# C# Projects
 these are some small projects I made using C# and .NET Framework
 
 ### BlackJack
